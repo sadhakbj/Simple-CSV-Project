@@ -14,7 +14,7 @@ The app can be run with the command below:
 
 * install the application dependencies using command: `composer install`
 * give write permission to the storage folder using `chmod -R 777 storage`
-* use command `php artisan serve' to start the server (--port can be optional)
+* use command `php artisan serve` to start the server (--port can be optional)
 * access `http://localhost:8000`
 
 ## Framework
@@ -29,21 +29,14 @@ coding standard
 
 ## Coding Conventions
 
-We follow PSR-2
+We have followed PSR-2 coding convention.
 
 ## Running Tests
 
-We can run the test using following command 'phpunit tests/ClientsTest.php'
+We can run the test using following command `phpunit tests/ClientsTest.php`
 
+## Tools Used:
 
-## Deployment
-
-We use Elastic Beanstalk CLI. 
-
-## Support
-
-For any queries and support, you may either [create a github issue](https://github.com/NRGI/resourcecontracts.org/issues/new) or send us an email at resourcecontracts@yipl.com.np
-
-## Copyright and license
-
-Code copyright Natural Resource Governance Institute. Code released under the [ MIT license ](LICENSE.md)
+* PHP Laravel Framework
+* Bootstrap 
+* Jquery
