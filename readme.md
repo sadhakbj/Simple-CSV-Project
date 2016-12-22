@@ -3,7 +3,7 @@ This has only Create and Read of the small CRUD part for the client section of t
 
 ## Install
 
-NRGI can be cloned from github repository and installed. Following the procedure given below:
+Application can be cloned from github repository and installed. Following the procedure given below:
 
 * git clone git@github.com:sadhakbj/Simple-CSV-Project.git csvapp
 * cd csvapp
